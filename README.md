@@ -1,6 +1,7 @@
 # Chess (Under Development)
 # Simple Python Chess Engine
 
+![Alt Image]("Chess_board_1.png")
 ## Overview
 
 This project is a command-line-based chess engine developed in Python. It's designed as an educational tool to understand the fundamental components of a chess AI, from board representation and move generation to basic evaluation and search algorithms. While not a world-class engine, it provides a solid foundation for exploring chess programming.
